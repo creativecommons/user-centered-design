@@ -5,7 +5,7 @@ add description here
 
 | Role  | Person |
 | ------------- | ------------- |
-| Driver  | [Jane Park](https://github.com/janeatcc)  |
-| Approvers  | ?  |
+| Driver  | [Jane](https://github.com/janeatcc)  |
+| Approvers  | [Ryan](https://github.com/ryanmerkley)  |
 | Contributors | Add yourselves here |
 | Informed | Add yourselves here |
