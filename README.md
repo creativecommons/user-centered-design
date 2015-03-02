@@ -1,5 +1,5 @@
 # user-centered-design
-add description here
+TBD
 
 ## Who's working on it at Creative Commons?
 
