@@ -6,6 +6,6 @@ TBD
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Jane](https://github.com/janeatcc)  |
-| Approvers  | [Ryan](https://github.com/ryanmerkley)  |
-| Contributors | Add yourselves here |
+| Accountable  | [Ryan](https://github.com/ryanmerkley)  |
+| Consulted | Add yourselves here |
 | Informed | Add yourselves here |
